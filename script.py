@@ -1,11 +1,6 @@
 import telebot
 from token_bot import TOKEN
-import requests
-import json
-# from telebot import util
-# import datetime
 from telebot import types
-from random import randrange
 import random
 
 bot = telebot.TeleBot(TOKEN)
